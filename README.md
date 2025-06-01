@@ -19,6 +19,7 @@ All three data files contain the following core six columns:
 5.  **End Station** (e.g., Sedgwick St & North Ave)
 6.  **User Type** (Subscriber or Customer)
 
+
 The Chicago and New York City files also include:
 7.  **Gender**
 8.  **Birth Year**
