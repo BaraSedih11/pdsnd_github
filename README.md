@@ -79,14 +79,12 @@ The script includes input validation to handle common user input errors (e.g., t
 
 ## File Structure
 
-
 ```text
 ├── bikeshare.py         # The main Python script
 ├── chicago.csv          # Dataset for Chicago
 ├── new_york_city.csv    # Dataset for New York City
 └── washington.csv       # Dataset for Washington
 ```
-
 
 ## Dependencies
 
