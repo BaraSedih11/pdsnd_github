@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -229,7 +230,7 @@ def main():
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
-        user_stats(df, city) # Pass city to user_stats to handle Washington
+        user_stats(df, city)
         display_raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
