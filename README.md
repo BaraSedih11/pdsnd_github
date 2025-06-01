@@ -5,6 +5,7 @@
 This project involves analyzing bikeshare data from three major US cities: Chicago, New York City, and Washington, DC. The goal is to uncover usage patterns by computing various descriptive statistics. The script provides an interactive command-line interface for users to specify the city and filters (month and/or day of the week) for which they want to see data.
 
 ## Datasets
+
 The three data files used are:
 * `chicago.csv`
 * `new_york_city.csv`
